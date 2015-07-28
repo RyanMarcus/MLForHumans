@@ -3,6 +3,8 @@
 These are the slides, demo files, and datasets used for the "Machine Learning for Humans" talk given at the Los Alamos National Laboratory. See the "Resources" silde appended near the end of the presentation for links.
 
   * `ml_for_humans.pdf`: the slides
+
+
   * `demos/demo1.py`: linear regression, printing coefficients
   * `demos/demo2.py`: linear regression, cross validation
   * `demos/demo3.py`: multi-model comparison
