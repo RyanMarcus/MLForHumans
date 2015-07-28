@@ -15,3 +15,7 @@ These are the slides, demo files, and datasets used for the "Machine Learning fo
 
 
 Find me on [Twitter](http://twitter.com), [LinkedIn](http://linkedin.com/RyanCMarcus), [GitHub](http://github.com/RyanMarcus), and at [my blog](http://rmarcus.info).
+
+This work, including source code, is licensed a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/). The `cold_rocks.csv` data was created entirely by myself and may be considered public domain. The `mpg_data.csv` file was derived from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Auto+MPG) and is subject to any restrictions placed on it by UCI.
+
+The `hw_data.csv` is provided *gratis* but may only be used as provided and cannot be redistributed, cited, or modified regardless of attribution or intent. You may use it for running `demo3.py`.
